@@ -1,0 +1,73 @@
+{
+    "title": {
+        "media": {
+          "url": "http://images.miiqu.net/uploads/b/b_s/36634096.jpg",
+          "caption": "",
+          "credit": ""
+        },
+        "text": {
+          "headline": "簡明中國教會歷史大事年表",
+          "text": "<h3>余俊銓　編著</h3><h5>獻給</h5> <br> <p>每一位曾為中國教會擺上生命的人</p><h5>紀念 </h5><p>基督教第四度來華 二百一十周年  (1807 ~ 2017)</p><p>宗教改革五百周年 （1517~2017）</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "http://photo.xuefo.net/user/editor5/asp/upload/70561436065108.jpg",
+          "caption": "",
+          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+        },
+        "start_date": {
+          "year": "635"
+        },
+        "text": {
+          "headline": "唐太宗 貞觀九年",
+          "text": "<h5>中國教會大事</h5><p>大秦國（羅馬帝國）有景教主教阿羅本 (Alopen Abraham)(屬亞述東方教會涅斯多流派)載經典抵長安，由歷史名相房玄齡迎接，獲唐太宗李世民接見，予以尊崇。</p><h5>中國大事</h5><p>李靖統諸軍大舉進攻吐谷渾。 5月，唐高祖（唐朝第一位皇帝）李淵卒（566~635年)。</p><h5>外國大事</h5><p>迦薩被阿拉伯穆斯林所征服，成為巴勒斯坦首個以伊斯蘭法為中心的地方。</p>"
+        }
+      },
+       {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Restoration_of_T'ang_dynasty_Nestorian_image_of_Jesus_Christ.jpg",
+          "caption": "",
+          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+        },
+        "start_date": {
+          "year": "636"
+        },
+        "text": {
+          "headline": "唐太宗 貞觀十年",
+          "text": "<h5>中國教會大事</h5><p>景教自此在中國順利發展了一百五十年，與祆教及摩尼教並稱唐代「三夷教」。（註：景教在唐代初期深得皇帝好感，李世民曾批准教徒在長安興建廟寺一所，初稱「波斯寺」，後更名為「羅馬寺」、「大秦寺」。自唐太宗王唐德宗，景教在貴族之間的發展極快。）</p><h5>中國大事</h5><p>唐朝史官修陳、齊、周、隋等史書完成。房玄齡、魏徵上《梁書》、《陳書》、《北齊書》、《周書》、《隋書》，詔藏於祕閣。</p><h5>外國大事</h5><p>大食（阿拉伯）穆斯林軍隊在阿爾-卡迪西亞會戰，擊敗波斯薩珊王朝軍隊。</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "http://www.bdcconline.net/zh-hant/stories/portrait/a_luoben.jpg",
+          "caption": "",
+          "credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+        },
+        "start_date": {
+          "year": "638"
+        },
+        "text": {
+          "headline": "唐太宗 貞觀十二年",
+         "text": "<h5>中國教會大事</h5><p></p><h5>中國大事</h5><p></p><h5>外國大事</h5><p></p>"
+        }
+      },
+      {
+        "media": {
+          "url": "http://www.christianweekly.net/2015/cwgraphics/2644_p11.jpg",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+           "month": "4",
+          "day": "19",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "百周年感恩崇拜暨宴會",
+                   "text": "<h5>中國教會大事</h5><p>香港華人基督教聯會假香港會議展覽中心大會堂舉行「百周年感恩崇拜暨宴會」，主題為「主恩百載、共創未來」。另舉辦福音雙週，以「大球場在教會」為概念，將大型佈道會分散到各教會舉行，有逾萬人參加。</p>"
+        }
+      }
+    ]
+}
